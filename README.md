@@ -1,0 +1,2 @@
+# komari-uninstaller
+komari-uninstaller
