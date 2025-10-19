@@ -17,6 +17,8 @@
    ```bash
    curl -O https://raw.githubusercontent.com/taviswoo/komari-uninstaller/main/uninstall-komari.sh
 2. 赋予权限
+   ```bash
    chmod +x uninstall-komari.sh
-3. 执行脚本
+4. 执行脚本
+   ```bash
    sudo ./uninstall-komari.sh
