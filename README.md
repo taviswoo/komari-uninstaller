@@ -16,3 +16,7 @@
 1. 下载脚本：
    ```bash
    curl -O https://raw.githubusercontent.com/taviswoo/komari-uninstaller/main/uninstall-komari.sh
+2. 赋予权限
+   chmod +x uninstall-komari.sh
+3. 执行脚本
+   sudo ./uninstall-komari.sh
